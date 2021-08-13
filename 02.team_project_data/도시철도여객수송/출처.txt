@@ -1,3 +1,0 @@
-http://www.kric.go.kr/jsp/industry/rss/citystapassList.jsp?q_org_cd=A010010030&q_fdate=2019
-
-도시철도 여객수송
